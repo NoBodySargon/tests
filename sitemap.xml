@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nobodysargon.github.io/notes/categories/</loc>
+    <loc>https://nobodysargon.github.io/tests/categories/</loc>
   </url><url>
-    <loc>https://nobodysargon.github.io/notes/</loc>
+    <loc>https://nobodysargon.github.io/tests/</loc>
   </url><url>
-    <loc>https://nobodysargon.github.io/notes/tags/</loc>
+    <loc>https://nobodysargon.github.io/tests/tags/</loc>
   </url>
 </urlset>
